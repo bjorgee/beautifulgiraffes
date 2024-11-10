@@ -1,0 +1,86 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* Body Styling */
+body {
+    background-color: #f4e7d3;
+    color: #3c2f2f;
+    line-height: 1.6;
+    padding: 0 10%;
+}
+
+/* Hero Section */
+.hero {
+    background-image: url('hero-giraffe.jpg'); /* Placeholder image */
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 4rem 2rem;
+    text-align: center;
+    border-bottom: 2px solid #e1b07e;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+}
+
+.hero p {
+    font-size: 1.2rem;
+}
+
+/* Personal Story Section */
+.personal-story {
+    background-color: #f9e0c2;
+    padding: 2rem;
+    margin-top: 2rem;
+    border-left: 5px solid #e1b07e;
+}
+
+.personal-story h2 {
+    font-size: 2rem;
+    color: #3c2f2f;
+    margin-bottom: 1rem;
+}
+
+/* Facts & Features Section */
+.facts-features {
+    background-color: #fae7d3;
+    padding: 2rem;
+    margin-top: 2rem;
+    border-left: 5px solid #e1b07e;
+}
+
+.facts-features h2 {
+    font-size: 2rem;
+    color: #3c2f2f;
+    margin-bottom: 1rem;
+}
+
+.facts-features ul {
+    list-style-type: none;
+}
+
+.facts-features li {
+    padding: 0.5rem 0;
+    color: #3c2f2f;
+}
+
+/* Legends & Literature Section */
+.legends-literature {
+    background-color: #f4e7d3;
+    padding: 2rem;
+    margin-top: 2rem;
+    border-left: 5px solid #e1b07e;
+}
+
+.legends-literature h2 {
+    font-size: 2rem;
+    color: #3c2f2f;
+    margin-bottom: 1rem;
+}
